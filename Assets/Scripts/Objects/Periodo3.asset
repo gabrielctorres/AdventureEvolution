@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ea5ecb21dde344b8428808bb8bd529, type: 3}
+  m_Name: Periodo3
+  m_EditorClassIdentifier: 
+  senteces:
+  - "Ola novamente, parab\xE9ns voc\xEA conseguiu chegar no \xFAltimo per\xEDodo
+    da pr\xE9-historia."
+  - "A idade dos metais  onde come\xE7amos  usar metais como cobre, bronze e ferro."
+  - "As ferramentas de metais nos ajudaram muito com o desenvolvimento da agricultura
+    que surgiu no \xFAltimo per\xEDodo."
+  - "Nossas armas e ferramentas tamb\xE9m evolu\xEDram muito e com tudo isso sa\xEDmos
+    da pre-historia e vamos avan\xE7ar para outro per\xEDodo "
+  - "mas isso \xE9 algo que vamos explicar  mais para frente, ate o momento \xE9
+    isso espero que tenha entendido tudo."
