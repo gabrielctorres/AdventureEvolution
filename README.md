@@ -11,7 +11,7 @@ Desenvolvido no quarto semestre da faculdade,  o projeto precisava ser para mobi
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Unity](https://unity.com/pt)
 
-## Gameplay:
+## Imagens:
 
 ![](imagens/gameplay1.jpg)
 
